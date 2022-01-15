@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.13.3",
     "semver-stable": "3.0.0",
-    "semver-utils": "1.1.2",
+    "semver-utils": "1.1.4",
     "shlex": "2.1.0",
     "simple-git": "2.46.0",
     "slugify": "1.6.5",
